@@ -1,4 +1,4 @@
-# 🔧 Git Server Deployment — Remote Repository Setup
+#  Git Server Deployment — Remote Repository Setup
 
 > Setting up Git on an Ubuntu server for version-controlled deployment of web applications, with SSH-based cloning and pushing.
 
